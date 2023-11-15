@@ -1,0 +1,27 @@
+_repo: Ending-the-depression-through-planned-obsolescence_72003
+_version: 0.0.1
+creator:
+  author:
+    agent_name: London, Bernard
+    gutenberg_agent_id: '56494'
+    url: http://www.gutenberg.org/2009/agents/56494
+description: ''
+gutenberg_issued: '2023-11-01'
+identifiers:
+  gutenberg: '72003'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/wu.89097035273
+pgterms:marc905: 20211216042912london
+pgterms:marc906: '1932'
+pgterms:marc907: US
+production_note: Bob Taylor, Tim Lindell and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This book was produced from images made available by the
+  HathiTrust Digital Library.)
+publication_note: '  $aNew York :$bself-published, $c1932.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Ending the depression through planned obsolescence
+url: http://www.gutenberg.org/ebooks/72003

@@ -1,11 +1,16 @@
 _repo: Ending-the-depression-through-planned-obsolescence_72003
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72003-h/images/cover.jpg
 creator:
   author:
     agent_name: London, Bernard
     gutenberg_agent_id: '56494'
     url: http://www.gutenberg.org/2009/agents/56494
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72003#Ending-the-depression-through-planned-obsolescence
 gutenberg_issued: '2023-11-01'
 identifiers:
   gutenberg: '72003'
